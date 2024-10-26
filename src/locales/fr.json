@@ -1,0 +1,15 @@
+{
+    "hero": {
+      "title": "Élevez votre expérience de visite avec un système audio sans fil",
+      "description": "Des solutions audio de haute qualité pour une expérience de groupe inoubliable.",
+      "button": "Louer Maintenant"
+    },
+    "contact": {
+      "title": "Contactez-Nous",
+      "namePlaceholder": "Votre Nom",
+      "emailPlaceholder": "Votre Email",
+      "messagePlaceholder": "Votre Message",
+      "submitButton": "Envoyer"
+    }
+  }
+  

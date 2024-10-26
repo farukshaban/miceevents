@@ -1,0 +1,15 @@
+{
+    "hero": {
+      "title": "Turlarınızda Kablosuz Ses Deneyimini Yükseltin",
+      "description": "Unutulmaz bir tur deneyimi için kesintisiz, yüksek kaliteli ses çözümleri.",
+      "button": "Şimdi Kirala"
+    },
+    "contact": {
+      "title": "İletişime Geçin",
+      "namePlaceholder": "Adınız",
+      "emailPlaceholder": "E-posta Adresiniz",
+      "messagePlaceholder": "Mesajınız",
+      "submitButton": "Gönder"
+    }
+  }
+  

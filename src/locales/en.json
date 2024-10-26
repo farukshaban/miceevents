@@ -1,0 +1,15 @@
+{
+    "hero": {
+      "title": "Elevate Your Tour Experience with Wireless Audio",
+      "description": "Seamless, high-quality audio solutions for an unforgettable group tour experience.",
+      "button": "Rent Now"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "namePlaceholder": "Your Name",
+      "emailPlaceholder": "Your Email",
+      "messagePlaceholder": "Your Message",
+      "submitButton": "Submit"
+    }
+  }
+  
